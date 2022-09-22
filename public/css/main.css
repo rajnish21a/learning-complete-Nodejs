@@ -208,6 +208,10 @@ form {
   color: white;
 }
 
+img.image{
+  height:15rem;
+}
+
 @media (min-width: 768px) {
   .main-header__nav {
     display: flex;
